@@ -37,7 +37,7 @@ class SimpleNeuralNetwork(nn.Module):
 
 ### Me in my Prime
 
-- ![Soccer Picture](sujen_soccer.jpg)
+- ![Soccer Picture](sujen_soccer.jpeg)
 
 ## To-Do List
 
