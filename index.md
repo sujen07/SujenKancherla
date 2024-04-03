@@ -33,7 +33,7 @@ class SimpleNeuralNetwork(nn.Module):
         x = F.relu(self.layer1(x))
         x = self.layer2(x)
         return x
-
+```
 
 ### Me in my Prime
 
